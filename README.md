@@ -17,11 +17,11 @@ If you're reading this, it likely means one of two things (or both). You're eith
   saliva: measurements of cortisol througout the day
   weight: standard weight metrics, including BMI, waist circumference, and more
   
-**Step 2:** Create a folder in your current working directory that contains the jupyter notebooks with the name of the feature you have selected. For example, create a new folder called `<hab1c>`
+**Step 2:** Create a folder in your current working directory that contains the jupyter notebooks with the name of the feature you have selected. For example, create a new folder called `hab1c`
 
-**Step 3:** Open the notebook titled "explore_health_deltas.ipynb"
+**Step 3:** Open the notebook titled `explore_health_deltas.ipynb`
 
-**Step 4:** To run the "get_deltas" function, use the following instructions:
+**Step 4:** To run the `get_deltas` function, use the following instructions:
   agruments are as follows:
   
     1. name of snapshot containing feature that was initialized at beginning of notebook    
@@ -38,9 +38,9 @@ For example, use:
     
 **Step 5:** Run all cells. This will import the necessary libraries and run through the whole script, generating the intermediate files that will be used in the following multivariate regression analysis.
 
-**Step 6:** Navigate to the notebook titled "get_predictors.ipynb"
+**Step 6:** Navigate to the notebook titled `get_predictors.ipynb`
 
-**Step 7:** To run the "get_predictions" function, call it beneath the function itself and use, for example: 
+**Step 7:** To run the `get_predictions` function, call it beneath the function itself and use, for example: 
 
     get_prediction('hba1c')
     ** note that the only argument for the function is the abbreviated name you gave the feature, which should be the same name as the folder containing the intermediate files
@@ -49,4 +49,4 @@ For example, use:
 
 **Step 9:** Observe the results. The final plot will be a summary of the results, where each subplot contains the results from the lasso regression, where the predicted residuals are plotted on the x-axis, and the observed residuals on the y-axis. Also included is a line with a slope of 1 and the actual mean-out-of-sample R2, which is essentially the score for the estimator. If the model is perfect, the scatter plot will have points that fall along the line and have an R2 close to 1.
 
-**Step 10:** Take a look at the csv titled "hba1c_lasso_predictions". This will give you a list of all the features that had non-zero beta-coefficients in the final lasso model. The univariate regression script shows an example of then taking those predictive features and performing a linear regression on each of them against the residuals, one at a time. Then, the R2 from the linear regressions is saved, and a dataframe of the sorted R2's from each regression is printed out.
+**Step 10:** Take a look at the csv titled `hba1c_lasso_predictions`. This will give you a list of all the features that had non-zero beta-coefficients in the final lasso model. The univariate regression script shows an example of then taking those predictive features and performing a linear regression on each of them against the residuals, one at a time. Then, the R2 from the linear regressions is saved, and a dataframe of the sorted R2's from each regression is printed out.
