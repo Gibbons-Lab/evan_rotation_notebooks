@@ -40,9 +40,10 @@ Step 5: Run all cells. This will import the necessary libraries and run through 
 
 Step 6: Navigate to the notebook titled "get_predictors.ipynb"
 
-Step 7: To run the "get_predictions" function, call it beneath the function itself and use (for example) get_prediction('hba1c')
-  ** note that the only argument for the function is the abbreviated name you gave the feature, which should be the same name as the folder 
-  containing the intermediate files
+Step 7: To run the "get_predictions" function, call it beneath the function itself and use, for example: 
+
+    get_prediction('hba1c')
+    ** note that the only argument for the function is the abbreviated name you gave the feature, which should be the same name as the folder containing the intermediate files
   
 Step 8: Let the script run (this should take ~ 1 hour, depending on how many features you have chosen to include in the analysis)
 
