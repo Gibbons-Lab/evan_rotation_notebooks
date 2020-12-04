@@ -30,9 +30,11 @@ Step 4: To run the "get_deltas" function, use the following instructions:
     4. numerical threshold for unhealthy group, use 0.0 to include all samples
     5. if True, unhealthy range is ABOVE threshold value, if False, unhealthy range is BELOW threshold value
   
-  For example, use: get_deltas(chemistries, 'GLYCOHEMOGLOBIN A1C', 'hba1c', 0.0, True)
-  ** note that the third argument is the is the same name as the folder you made that will recieve the intermediate files
-  ** this will also generate and save a figure that shows various plots of the deltas and residuals, etc.
+For example, use: 
+
+    get_deltas(chemistries, 'GLYCOHEMOGLOBIN A1C', 'hba1c', 0.0, True)
+    ** note that the third argument is the is the same name as the folder you made that will recieve the intermediate files
+    ** this will also generate and save a figure that shows various plots of the deltas and residuals, etc.
     
 Step 5: Run all cells. This will import the necessary libraries and run through the whole script, generating the intermediate files that will be used in the following multivariate regression analysis.
 
