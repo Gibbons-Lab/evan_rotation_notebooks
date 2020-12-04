@@ -8,14 +8,15 @@ If you're reading this, it likely means one of two things (or both). You're eith
 **Step 0:** Select a feature you are interested in analyzing. This feature must exist within the thousands of features measured within the Arivale study. For example, let's choose glycated hemoglobin, abbreviated hba1c.
 
 **Step 1:** Identify what dataframe this feature is in. Here is a list of dataframes and a description of the features held therein:
-  chemsitries: clinically relevant analytes (including hba1c)
-  metabolomics: measureable blood metabolites
-  proteomics: proteins captured from blood sample
-  microbiome_diversity: standard diversity metrics for microbiome
-  mirobiome_genera: defined genera of microbes found in any participant
-  blood_pressure: standard blood pressure metrics
-  saliva: measurements of cortisol througout the day
-  weight: standard weight metrics, including BMI, waist circumference, and more
+  
+    chemsitries: clinically relevant analytes (including hba1c)
+    metabolomics: measureable blood metabolites
+    proteomics: proteins captured from blood sample
+    microbiome_diversity: standard diversity metrics for microbiome
+    mirobiome_genera: defined genera of microbes found in any participant
+    blood_pressure: standard blood pressure metrics
+    saliva: measurements of cortisol througout the day
+    weight: standard weight metrics, including BMI, waist circumference, and more
   
 **Step 2:** Create a folder in your current working directory that contains the jupyter notebooks with the name of the feature you have selected. For example, create a new folder called `hab1c`
 
