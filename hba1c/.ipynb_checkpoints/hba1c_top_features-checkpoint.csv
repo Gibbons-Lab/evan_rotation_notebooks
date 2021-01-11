@@ -1,0 +1,68 @@
+,feature,r2
+48,observed_otus_50000,0.2482262555886755
+47,observed_otus_30000,0.2477889558148766
+12,"Methionine, Cysteine, SAM and Taurine Metabolism, Amino Acid, cysteine s-sulfate",0.21716907088225024
+35,CVD3_P02786,0.16991339209604062
+1,ARACHIDONIC ACID,0.15093951405486605
+37,INF_O14625,0.11786068774622949
+53,bacteria.firmicutes.clostridia.clostridiales.clostridiaceae.clostridium,0.1175614093819981
+33,CVD2_Q9UIB8,0.11615828988440402
+61,bacteria.firmicutes.clostridia.clostridiales.lachnospiraceae,0.1114763941287289
+39,INF_P13232,0.1088691812743996
+42,INF_P80162,0.10119022614732043
+32,CVD2_Q99075,0.09078265206359426
+6,OMEGA-6/OMEGA-3 RATIO,0.0878385519015088
+3,"GFR, MDRD",0.08775417440694089
+30,CVD2_Q76LX8,0.0876572917696713
+44,INF_Q14790,0.08510101610989729
+20,"Phospholipid Metabolism, Lipid, 1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5)*",0.083000792048332
+16,"Lysolipid, Lipid, 1-eicosapentaenoyl-GPC (20:5)*",0.08148578040463561
+9,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism, Carbohydrate, pyruvate",0.0753108241463909
+38,INF_O43557,0.07471761029248425
+24,"Phospholipid Metabolism, Lipid, 1-stearoyl-2-docosapentaenoyl-GPC (18:0/22:5n3)*",0.07029239608817306
+13,"Pyrimidine Metabolism, Uracil containing, Nucleotide, 5-methyluridine (ribothymidine)",0.06681317716219581
+54,bacteria.firmicutes.clostridia.clostridiales.lachnospiraceae.roseburia,0.0639277198655841
+50,bacteria.firmicutes.clostridia.clostridiales.ruminococcaceae.oscillospira,0.06087004421607256
+34,CVD3_O00175,0.06031015010136698
+55,bacteria.firmicutes.clostridia.clostridiales.lachnospiraceae.ruminococcus,0.058449493175153244
+15,"Lysolipid, Lipid, 2-myristoyl-GPC (14:0)*",0.054339821542780165
+57,bacteria.firmicutes.clostridia.clostridiales.veillonellaceae.phascolarctobacterium,0.0534711567100592
+59,bacteria.firmicutes.clostridia.clostridiales.lachnospiraceae.shuttleworthia,0.05179431037305349
+10,"Gamma-glutamyl Amino Acid, Peptide, gamma-glutamyltyrosine",0.05078421479019757
+49,CORTISOL_NOON,0.04735444662761845
+28,"Fatty Acid, Dicarboxylate, Lipid, 3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**",0.04464514112034357
+29,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated), Lipid, undecenoylcarnitine (C11:1)",0.04342820949125603
+7,"Purine Metabolism, (Hypo)Xanthine/Inosine containing, Nucleotide, hypoxanthine",0.042751530963894946
+52,bacteria.firmicutes.clostridia.clostridiales.lachnospiraceae.blautia,0.042211950888757066
+11,"Phospholipid Metabolism, Lipid, 1-myristoyl-2-palmitoyl-GPC (14:0/16:0)",0.04047934633840189
+22,"Sphingolipid Metabolism, Lipid, myristoyl dihydrosphingomyelin (d18:0/14:0)*",0.03883326686844324
+31,"CVD2_Q8NEV9,Q14213",0.037150350054557024
+41,INF_P78423,0.036335563355700096
+8,"Methionine, Cysteine, SAM and Taurine Metabolism, Amino Acid, cystine",0.035760962722680034
+17,"Dipeptide, Peptide, cyclo(pro-val)",0.0343844332147194
+19,"Sphingolipid Metabolism, Lipid, lignoceroyl sphingomyelin (d18:1/24:0)",0.034330487800732334
+40,INF_P55773,0.03384257903898591
+45,INF_Q9NYY1,0.03379962870044162
+63,bacteria.actinobacteria.coriobacteriia.coriobacteriales.coriobacteriaceae,0.033386985547695036
+25,"Plasmalogen, Lipid, 1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*",0.031166811464311883
+18,"Sphingolipid Metabolism, Lipid, behenoyl sphingomyelin (d18:1/22:0)*",0.030355709568671063
+21,"Sphingolipid Metabolism, Lipid, sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",0.02779813378516316
+36,CVD3_Q07654,0.02550300803522032
+5,INSULIN,0.025049642008520112
+23,"Phospholipid Metabolism, Lipid, 1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*",0.020572764858552528
+2,"CHOLESTEROL, TOTAL",0.020377883185885848
+58,bacteria.tm7.tm7-3.ew055.unclassified.unclassified,0.01778140084889812
+66,bacteria.tm7.tm7-3.ew055.unclassified,0.01778140084889812
+51,bacteria.bacteroidetes.flavobacteriia.flavobacteriales.flavobacteriaceae.flavobacterium,0.01778140084889812
+43,INF_Q07011,0.014621633338167128
+56,bacteria.cyanobacteria.4c0d-2.ys2.unclassified.unclassified,0.012600255136140825
+65,bacteria.cyanobacteria.4c0d-2.ys2.unclassified,0.012600255136140825
+26,"Phospholipid Metabolism, Lipid, 1-palmityl-2-palmitoyl-GPC (O-16:0/16:0)*",0.012228369765341807
+62,bacteria.firmicutes.clostridia.clostridiales.ruminococcaceae,0.010683917550213917
+27,"Polyamine Metabolism, Amino Acid, (N(1) + N(8))-acetylspermidine",0.01040112899818868
+14,"Phenylalanine and Tyrosine Metabolism, Amino Acid, phenol sulfate",0.009736174714758183
+4,GLOBULIN,0.008903300571733608
+60,bacteria.proteobacteria.gammaproteobacteria.aeromonadales.succinivibrionaceae.unclassified,0.00852082891464312
+0,A/G RATIO,0.004601017503846561
+64,bacteria.firmicutes.bacilli.lactobacillales.aerococcaceae,0.003271560258244044
+46,diversity_shannon,0.0026202861516732012
